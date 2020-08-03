@@ -6,7 +6,7 @@
     "email": "molly@hawaii.edu",
     "phone": "916-886-6469",
     "website": "https://daniellau331.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. at the University of California, Davis. I expect to graduate in June, 2021.",
     "location": {
       "address": "",
       "postalCode": "95678",
@@ -17,36 +17,25 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Daniellau331",
+        "url": "http://github.com/Daniellau331"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kaleunglau",
+        "url": "http://linkedin.com/in/kaleunglau"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "running",
       "keywords": [
       ]
     },
